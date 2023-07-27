@@ -1,4 +1,4 @@
-# java-war-devops-examples
+# java-war-cicd-examples
 Various examples of using CI/CD approaches with war-based Java applications
 
 All directories are named after the deployment type and which dependency/build manager is being used.
